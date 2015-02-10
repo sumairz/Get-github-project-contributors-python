@@ -1,8 +1,3 @@
-'''
-Name: Syed Sumair Zafar
-Id  : 7099347
-'''
-
 # Install certifi module to generate secure ssl3 certificate github is using that certificate 
 
 # Requirements
